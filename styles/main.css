@@ -146,9 +146,9 @@ main {
   background: #ffcc00;
 }
 
-/* ======================= SECCIÓN COCHE ============================== */
+/* ======================= SECCIÓN HERO ============================== */
 
-#coche {
+#hero {
   margin-top: 20px;
   padding: 25px;
   background: #ffea95;
@@ -160,7 +160,7 @@ main {
 }
 
 
-#coche img {
+#hero img {
   width: 150px;
   border-radius: 10px;
   margin-left: 60px;
@@ -302,3 +302,4 @@ main {
 .site-footer a:hover {
   text-decoration: underline;
 }
+
